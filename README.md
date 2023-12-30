@@ -1,9 +1,6 @@
-<h1>Google Cybersecurity Certificate</h1>
+<h1>Google Cybersecurity Certificate labs</h1>
 
-
-<h2>Labs</h2>
-
-<b>General</b><br>
+<h2>General</h2>
 •	Classifying assets connected to a home network<br>
 •	Score risks based on their likelihood and severity<br>
 •	Analyze a vulnerable system for a small business<br>
@@ -18,8 +15,8 @@
 •	Securing networks against Denial of Service (DoS) attacks<br>
 •	Applying OS hardening techniques<br>
 •	Applying network hardening techniques<br>
-•	Applying cloud hardening techniques<br><br>
-<b>Linux</b><br> 
+•	Applying cloud hardening techniques<br>
+<h2>Linux</h2>
 •	Installing software in a Linux Distribution<br>
 •	Examining input and output in the shell<br>
 •	Finding and managing files with Linux commands<br>
@@ -29,13 +26,13 @@
 •	Adding and managing users with Linux commands<br>
 •	Encrypting and decrypting messages<br>
 •	Creating hash values and investigating suspicious file hashes<br>
-•	Packet capture and analysis with tcpdump<br><br>
-<b>Databases and SQL</b><br>
+•	Packet capture and analysis with tcpdump<br>
+<h2>Databases and SQL</h2>
 •	Performing SQL queries<br>
 •	Filtering SQL queries<br>
 •	Filtering with AND, OR, and NOT<br>
-•	Completing a join<br><br>
-<b>Python</b><br>
+•	Completing a join<br>
+<h2>Python</h2>
 •	Practicing writing Python Code<br>
 •	Assigning Python Variables<br>
 •	Creating conditional statements<br>
@@ -44,14 +41,14 @@
 •	Working with strings in Python<br>
 •	Developing an algorithm (x2)<br>
 •	Using regular expressions to find patterns<br>
-•	Debugging Python code<br><br>
-<b>Suricata</b><br>
+•	Debugging Python code<br>
+<h2>Suricata</h2>
 •	Examining signatures<br>
-•	Examining logs<br><br>
-<b>Splunk</b><br>
-•	Query for events<br><br>
-<b>Chronicle</b><br>
+•	Examining logs<br>
+<h2>Splunk</h2>
 •	Query for events<br>
+<h2>Chronicle</h2>
+•	Query for events
 
 
 
