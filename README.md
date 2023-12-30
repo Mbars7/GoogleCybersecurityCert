@@ -1,4 +1,4 @@
-<h1>Google Cybersecurity Certificate labs</h1>
+<h1>Google Cybersecurity Certificate (labs)</h1>
 
 <h2>General</h2>
 •	Classifying assets connected to a home network<br>
@@ -16,7 +16,7 @@
 •	Applying OS hardening techniques<br>
 •	Applying network hardening techniques<br>
 •	Applying cloud hardening techniques<br>
-<h2>Linux</h2>
+<h2>Linux </h2>
 •	Installing software in a Linux Distribution<br>
 •	Examining input and output in the shell<br>
 •	Finding and managing files with Linux commands<br>
