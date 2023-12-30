@@ -8,7 +8,7 @@
 •	Identifying attack vectors of a USB drive<br>
 •	Filtering malicious e-mails<br>
 •	Using a playbook to respond to a phishing attack<br>
-•	Identifying Indicators of Compromise<br>
+•	Identifying indicators of compromise<br>
 •	Conducting a security audit<br>
 •	Responding to a SIEM alert<br>
 •	Analyzing network communication and attacks<br>
