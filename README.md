@@ -3,7 +3,7 @@
 
 <h2>Labs</h2>
 
-<b>General - </b><br>
+<b>General – </b><br>
 •	Classifying assets connected to a home network<br>
 •	Score risks based on their likelihood and severity<br>
 •	Analyze a vulnerable system for a small business<br>
@@ -35,7 +35,7 @@
 •	Filtering SQL queries<br>
 •	Filtering with AND, OR, and NOT<br>
 •	Completing a join<br><br>
-<b>Python  - </b><br>
+<b>Python – </b><br>
 •	Practicing writing Python Code<br>
 •	Assigning Python Variables<br>
 •	Creating conditional statements<br>
@@ -50,7 +50,7 @@
 •	Examining logs<br><br>
 <b>Splunk – </b><br>
 •	Query for events<br><br>
-<b>Chronicle - </b><br>
+<b>Chronicle – </b><br>
 •	Query for events<br>
 
 
