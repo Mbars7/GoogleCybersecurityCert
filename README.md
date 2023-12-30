@@ -17,10 +17,10 @@
 •	Applying network hardening techniques<br>
 •	Applying cloud hardening techniques<br>
 <h2>Linux </h2>
-•	Installing software in a Linux Distribution<br>
+•	Installing software in a Linux distribution<br>
 •	Examining input and output in the shell<br>
 •	Finding and managing files with Linux commands<br>
-•	Filtering with Grep<br>
+•	Filtering with grep<br>
 •	Managing files with Linux commands<br>
 •	Managing authorization with Linux commands<br>
 •	Adding and managing users with Linux commands<br>
