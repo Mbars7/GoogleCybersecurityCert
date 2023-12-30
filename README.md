@@ -3,13 +3,13 @@
 
 <h2>Labs</h2>
 
-<b>General – </b><br>
+<b>General</b><br>
 •	Classifying assets connected to a home network<br>
 •	Score risks based on their likelihood and severity<br>
 •	Analyze a vulnerable system for a small business<br>
 •	Improve authentication, authorization, and accounting for a small business<br>
 •	Identifying attack vectors of a USB drive<br>
-•	Filtering malicious Emails<br>
+•	Filtering malicious e-mails<br>
 •	Using a playbook to respond to a phishing attack<br>
 •	Identifying Indicators of Compromise<br>
 •	Conducting a security audit<br>
@@ -19,8 +19,8 @@
 •	Applying OS hardening techniques<br>
 •	Applying network hardening techniques<br>
 •	Applying cloud hardening techniques<br><br>
-<b>Linux – </b><br> 
-•	Installing Software in a Linux Distribution<br>
+<b>Linux</b><br> 
+•	Installing software in a Linux Distribution<br>
 •	Examining input and output in the shell<br>
 •	Finding and managing files with Linux commands<br>
 •	Filtering with Grep<br>
@@ -30,12 +30,12 @@
 •	Encrypting and decrypting messages<br>
 •	Creating hash values and investigating suspicious file hashes<br>
 •	Packet capture and analysis with tcpdump<br><br>
-<b>Databases and SQL – </b><br>
+<b>Databases and SQL</b><br>
 •	Performing SQL queries<br>
 •	Filtering SQL queries<br>
 •	Filtering with AND, OR, and NOT<br>
 •	Completing a join<br><br>
-<b>Python – </b><br>
+<b>Python</b><br>
 •	Practicing writing Python Code<br>
 •	Assigning Python Variables<br>
 •	Creating conditional statements<br>
@@ -45,12 +45,12 @@
 •	Developing an algorithm (x2)<br>
 •	Using regular expressions to find patterns<br>
 •	Debugging Python code<br><br>
-<b>Suricata – </b><br>
+<b>Suricata</b><br>
 •	Examining signatures<br>
 •	Examining logs<br><br>
-<b>Splunk – </b><br>
+<b>Splunk</b><br>
 •	Query for events<br><br>
-<b>Chronicle – </b><br>
+<b>Chronicle</b><br>
 •	Query for events<br>
 
 
