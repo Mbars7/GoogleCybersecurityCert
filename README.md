@@ -33,8 +33,8 @@
 •	Filtering with AND, OR, and NOT<br>
 •	Completing a join<br>
 <h2>Python</h2>
-•	Practicing writing Python Code<br>
-•	Assigning Python Variables<br>
+•	Practicing writing Python code<br>
+•	Assigning Python variables<br>
 •	Creating conditional statements<br>
 •	Creating loops<br>
 •	Defining and calling functions<br>
